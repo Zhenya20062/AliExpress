@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_details_title">Product Details</string>
+    <string name="select_color_and_capacity">Select color and capacity</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
